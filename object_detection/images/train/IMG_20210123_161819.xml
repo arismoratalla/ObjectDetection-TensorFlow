@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20210123_161819.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20210123_161819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>190</ymin>
+			<xmax>2880</xmax>
+			<ymax>2008</ymax>
+		</bndbox>
+	</object>
+</annotation>
